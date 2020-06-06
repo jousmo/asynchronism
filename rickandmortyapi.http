@@ -1,0 +1,12 @@
+GET https://rickandmortyapi.com/api/character/
+Accept: application/json
+
+###
+
+GET https://rickandmortyapi.com/api/character/1
+Accept: application/json
+
+###
+
+GET https://rickandmortyapi.com/api/location/1
+Accept: application/json
